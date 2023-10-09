@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\testserver\loopsTasks\loopsTasks\bin\Debug\net6.0\loopsTasks.exe
+C:\Users\User\Downloads\testserver\loopsTasks\loopsTasks\bin\Debug\net6.0\loopsTasks.deps.json
+C:\Users\User\Downloads\testserver\loopsTasks\loopsTasks\bin\Debug\net6.0\loopsTasks.runtimeconfig.json
+C:\Users\User\Downloads\testserver\loopsTasks\loopsTasks\bin\Debug\net6.0\loopsTasks.dll
+C:\Users\User\Downloads\testserver\loopsTasks\loopsTasks\bin\Debug\net6.0\loopsTasks.pdb
+C:\Users\User\Downloads\testserver\loopsTasks\loopsTasks\obj\Debug\net6.0\loopsTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\testserver\loopsTasks\loopsTasks\obj\Debug\net6.0\loopsTasks.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\testserver\loopsTasks\loopsTasks\obj\Debug\net6.0\loopsTasks.AssemblyInfo.cs
+C:\Users\User\Downloads\testserver\loopsTasks\loopsTasks\obj\Debug\net6.0\loopsTasks.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\testserver\loopsTasks\loopsTasks\obj\Debug\net6.0\loopsTasks.dll
+C:\Users\User\Downloads\testserver\loopsTasks\loopsTasks\obj\Debug\net6.0\refint\loopsTasks.dll
+C:\Users\User\Downloads\testserver\loopsTasks\loopsTasks\obj\Debug\net6.0\loopsTasks.pdb
+C:\Users\User\Downloads\testserver\loopsTasks\loopsTasks\obj\Debug\net6.0\loopsTasks.genruntimeconfig.cache
+C:\Users\User\Downloads\testserver\loopsTasks\loopsTasks\obj\Debug\net6.0\ref\loopsTasks.dll
