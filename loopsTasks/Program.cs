@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace loopsTasks // Note: actual namespace depends on the project name.
+namespace loopsTasks
 {
     internal class Program
     {
